@@ -1,0 +1,22 @@
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\bin\Debug\Create Account with Email or Phone Number.exe.config
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\bin\Debug\Create Account with Email or Phone Number.exe
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\bin\Debug\Create Account with Email or Phone Number.pdb
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.AssemblyReference.cache
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create_Account_with_Email_or_Phone_Number.Form1.resources
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create_Account_with_Email_or_Phone_Number.Properties.Resources.resources
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.GenerateResource.cache
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.exe
+C:\Users\Linh\source\repos\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.pdb
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\bin\Debug\Create Account with Email or Phone Number.exe.config
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\bin\Debug\Create Account with Email or Phone Number.exe
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\bin\Debug\Create Account with Email or Phone Number.pdb
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.AssemblyReference.cache
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create_Account_with_Email_or_Phone_Number.Form1.resources
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create_Account_with_Email_or_Phone_Number.Properties.Resources.resources
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.GenerateResource.cache
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.exe
+C:\Users\Linh\OneDrive\Desktop\Create-Account-Project\Create Account with Email or Phone Number\Create Account with Email or Phone Number\obj\Debug\Create Account with Email or Phone Number.pdb
